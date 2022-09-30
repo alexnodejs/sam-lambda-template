@@ -10,3 +10,6 @@ exports.helloFromLambdaHandler = async () => {
     
     return message;
 }
+
+Hi Alex!
+I hope all is well with you and your loved ones, you understand that I will not leave, what is the reason for your ignoring?
